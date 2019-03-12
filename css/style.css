@@ -1,0 +1,63 @@
+body{
+    background: gray;
+}
+
+.bg-blue{
+    border: 1px solid #000;
+    padding: 30px;
+    background: white;
+    color: #00ada6;
+    text-align: center;
+    font-family: sans-serif;
+}
+.myname{
+    color: gray !important;
+    background: #00ada6;
+}
+
+.form{
+    float: left;
+    color: black;
+    padding: 20px 0px;
+
+}
+.submit{
+    float: left;
+    margin: 8px 0px;
+}
+.message{
+    padding: 200px 0px;
+}
+.right{
+    font-size: 20px;
+}
+.hr{
+    border-top: 2px solid black;
+}
+.pic{
+    width: 50px;
+}
+.h2{
+    color: #00ada6;
+    position: relative;
+}
+.mid{
+    background: gray;
+}
+.leftnav{
+    float: right;
+}
+.foot{
+    border-top: 7px solid green;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.end{
+    text-align: center;
+    background: darkgray;
+    padding:  20px 0px;
+    margin: 0px;
+}
+.container{
+    width: 1200px;
+}
